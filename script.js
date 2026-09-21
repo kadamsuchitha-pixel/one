@@ -15,4 +15,3 @@ document.getElementById('contact-form').addEventListener('submit', function (e) 
   this.reset();
 });
 
-console.log("hello")
